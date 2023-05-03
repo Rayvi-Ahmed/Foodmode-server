@@ -1,0 +1,65 @@
+
+[
+    {
+      "id": 1,
+      "name": "Zakir Ahmed",
+      "picture": "https://example.com/zakir-ahmed.jpg",
+      "bio": "Zakir Ahmed is a renowned Bangladeshi chef who specializes in fusion cuisine. He has won several awards for his culinary skills and has been featured in many food shows and magazines.",
+      "years_of_experience": 15,
+      "num_of_recipes": 50,
+      "likes": 5000,
+      "ratings": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Kamal Ahmed",
+      "picture": "https://example.com/kamal-ahmed.jpg",
+      "bio": "Kamal Ahmed is a highly skilled Bangladeshi chef who specializes in traditional Bangladeshi cuisine. He has been cooking for over 20 years and is known for his use of unique spices and herbs.",
+      "years_of_experience": 20,
+      "num_of_recipes": 100,
+      "likes": 8000,
+      "ratings": 4.8
+    },
+    {
+      "id": 3,
+      "name": "Tahmina Akter",
+      "picture": "https://example.com/tahmina-akter.jpg",
+      "bio": "Tahmina Akter is a young and talented Bangladeshi chef who specializes in vegetarian cuisine. She is passionate about creating healthy and delicious meals and has won several awards for her innovative recipes.",
+      "years_of_experience": 5,
+      "num_of_recipes": 30,
+      "likes": 3000,
+      "ratings": 4.7
+    },
+    {
+      "id": 4,
+      "name": "Mohammad Rahman",
+      "picture": "https://example.com/mohammad-rahman.jpg",
+      "bio": "Mohammad Rahman is a skilled Bangladeshi chef who specializes in seafood dishes. He has worked in several high-end restaurants and hotels and is known for his ability to create unique and flavorful dishes.",
+      "years_of_experience": 12,
+      "num_of_recipes": 70,
+      "likes": 6000,
+      "ratings": 4.6
+    },
+    {
+      "id": 5,
+      "name": "Sadia Islam",
+      "picture": "https://example.com/sadia-islam.jpg",
+      "bio": "Sadia Islam is a talented Bangladeshi chef who specializes in fusion cuisine. She has trained in several international culinary schools and has worked in some of the top restaurants around the world.",
+      "years_of_experience": 8,
+      "num_of_recipes": 40,
+      "likes": 4000,
+      "ratings": 4.9
+    },
+    {
+      "id": 6,
+      "name": "Nazrul Islam",
+      "picture": "https://example.com/nazrul-islam.jpg",
+      "bio": "Nazrul Islam is a highly skilled Bangladeshi chef who specializes in meat dishes. He has worked in several restaurants and hotels around the world and is known for his ability to create unique and flavorful dishes.",
+      "years_of_experience": 15,
+      "num_of_recipes": 60,
+      "likes": 7000,
+      "ratings": 4.7
+    }
+    
+]
+
