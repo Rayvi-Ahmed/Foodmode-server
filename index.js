@@ -21,7 +21,8 @@ res.send(Chefs)
 app.get('/chefs/:id',(req,res)=>{
   const id= req.params.id;
   const item = Chefs?.find(ch=>ch.id==id)
-  res.send({item})
+  console.log(item)
+  res.send(item)
 })
 
 
