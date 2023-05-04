@@ -2,63 +2,165 @@
 [
     {
       "id": 1,
-      "name": "Zakir Ahmed",
-      "picture": "https://example.com/zakir-ahmed.jpg",
-      "bio": "Zakir Ahmed is a renowned Bangladeshi chef who specializes in fusion cuisine. He has won several awards for his culinary skills and has been featured in many food shows and magazines.",
+      "name": "Massimo Bottura",
+      "picture": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-showing-empty-hand-isolated-orange-wall-with-copy-space_141793-101297.jpg?w=740&t=st=1683127686~exp=1683128286~hmac=b9efc2206478866fc9f66bccf24461f878e90ebee3850366116fbaa01c96a346",
+      "bio": "Massimo Bottura is a renowned italian chef who specializes in fusion cuisine. He has won several awards for his culinary skills and has been featured in many food shows and magazines.",
       "years_of_experience": 15,
       "num_of_recipes": 50,
       "likes": 5000,
-      "ratings": 4.5
+      "ratings": 4.5,
+      "recipe":[
+        {
+          "recipe_name":"Risotto",
+          "ingradient":["some butter, onions, maybe wine, short- or medium-grain rice, and broth, finished with Parmesan."],
+          "coocking_method":"The recipe has changed little over the years and now includes bacon, egg yolk, and cheese. In the Italian capital, they also eat “bucatini al cacio e pepe” made with just butter, pepper, and pecorino cheese. The secret is to mix them at the right times. Another famous pasta dish is the “penne all’arrabbiata”—pasta with a spicy tomato sauce."
+        },
+        {
+          "recipe_name":"Pasta",
+          "ingradient":["1 cup perpose flour, teaspoon slat, egg beaten, soya souce, watar, onion."],
+          "coocking_method":"Among the most popular is “risotto alla milanese”, which is prepared with white wine, Parmesan cheese, butter, onions, and saffron, which gives it its unmistakable yellow color. But it can also be made with many other ingredients such as pumpkin, red radicchio, mushrooms, sausage, or shellfish"
+        },
+        {
+          "recipe_name":" Lasagne",
+          "ingradient":["garlic, olive oil, ricotta cheese, mozzarella cheese, eggs, onion, tomatoes."],
+          "coocking_method":"For the sauce, heat a heavy-based saucepan or casserole over a medium-high heat. Once hot, add a glug of oil and then add the onion, carrot, celery and bay leaf and cook for 5-6 minutes, or until softened. Add the garlic and continue to cook for two minutes"
+        }
+        ]
     },
     {
       "id": 2,
-      "name": "Kamal Ahmed",
-      "picture": "https://example.com/kamal-ahmed.jpg",
-      "bio": "Kamal Ahmed is a highly skilled Bangladeshi chef who specializes in traditional Bangladeshi cuisine. He has been cooking for over 20 years and is known for his use of unique spices and herbs.",
+      "name": "Carlo Cracco",
+      "picture": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=740&t=st=1683127739~exp=1683128339~hmac=ec4d2d9374daedc80c27f22145895d99182a75b54e39235130ed1386114fc60f",
+      "bio": "Carlo Cracco is a highly skilled italian chef who specializes in traditional Bangladeshi cuisine. He has been cooking for over 20 years and is known for his use of unique spices and herbs.",
       "years_of_experience": 20,
       "num_of_recipes": 100,
       "likes": 8000,
-      "ratings": 4.8
+      "ratings": 4.8,
+      "recipe":[
+        {
+          "recipe_name":"Risotto",
+          "ingradient":["some butter, onions, maybe wine, short- or medium-grain rice, and broth, finished with Parmesan."],
+          "coocking_method":"The recipe has changed little over the years and now includes bacon, egg yolk, and cheese. In the Italian capital, they also eat “bucatini al cacio e pepe” made with just butter, pepper, and pecorino cheese. The secret is to mix them at the right times. Another famous pasta dish is the “penne all’arrabbiata”—pasta with a spicy tomato sauce."
+        },
+        {
+          "recipe_name":"Pasta",
+          "ingradient":["1 cup perpose flour, teaspoon slat, egg beaten, soya souce, watar, onion."],
+          "coocking_method":"Among the most popular is “risotto alla milanese”, which is prepared with white wine, Parmesan cheese, butter, onions, and saffron, which gives it its unmistakable yellow color. But it can also be made with many other ingredients such as pumpkin, red radicchio, mushrooms, sausage, or shellfish"
+        },
+        {
+          "recipe_name":" Lasagne",
+          "ingradient":["garlic, olive oil, ricotta cheese, mozzarella cheese, eggs, onion, tomatoes."],
+          "coocking_method":"For the sauce, heat a heavy-based saucepan or casserole over a medium-high heat. Once hot, add a glug of oil and then add the onion, carrot, celery and bay leaf and cook for 5-6 minutes, or until softened. Add the garlic and continue to cook for two minutes"
+        }
+        ]
     },
     {
       "id": 3,
-      "name": "Tahmina Akter",
-      "picture": "https://example.com/tahmina-akter.jpg",
-      "bio": "Tahmina Akter is a young and talented Bangladeshi chef who specializes in vegetarian cuisine. She is passionate about creating healthy and delicious meals and has won several awards for her innovative recipes.",
+      "name": "Giada De Laurentiis",
+      "picture": "https://img.freepik.com/free-photo/young-pleased-caucasian-cook-girl-chef-uniform-crosses-arms-isolated-orange-wall-with-copy-space_141793-33366.jpg?w=740&t=st=1683129763~exp=1683130363~hmac=dc9ea27ba20e8cf84dd32918770a448b05c2683ece78479a24e043c34a519b77",
+      "bio": "Giada De Laurentiisis a young and talented italiano chef who specializes in vegetarian cuisine. She is passionate about creating healthy and delicious meals and has won several awards for her innovative recipes.",
       "years_of_experience": 5,
       "num_of_recipes": 30,
       "likes": 3000,
-      "ratings": 4.7
+      "ratings": 4.7,
+      "recipe":[
+        {
+          "recipe_name":"Risotto",
+          "ingradient":["some butter, onions, maybe wine, short- or medium-grain rice, and broth, finished with Parmesan."],
+          "coocking_method":"The recipe has changed little over the years and now includes bacon, egg yolk, and cheese. In the Italian capital, they also eat “bucatini al cacio e pepe” made with just butter, pepper, and pecorino cheese. The secret is to mix them at the right times. Another famous pasta dish is the “penne all’arrabbiata”—pasta with a spicy tomato sauce."
+        },
+        {
+          "recipe_name":"Pasta",
+          "ingradient":["1 cup perpose flour, teaspoon slat, egg beaten, soya souce, watar, onion."],
+          "coocking_method":"Among the most popular is “risotto alla milanese”, which is prepared with white wine, Parmesan cheese, butter, onions, and saffron, which gives it its unmistakable yellow color. But it can also be made with many other ingredients such as pumpkin, red radicchio, mushrooms, sausage, or shellfish"
+        },
+        {
+          "recipe_name":" Lasagne",
+          "ingradient":["garlic, olive oil, ricotta cheese, mozzarella cheese, eggs, onion, tomatoes."],
+          "coocking_method":"For the sauce, heat a heavy-based saucepan or casserole over a medium-high heat. Once hot, add a glug of oil and then add the onion, carrot, celery and bay leaf and cook for 5-6 minutes, or until softened. Add the garlic and continue to cook for two minutes"
+        }
+        ]
     },
     {
       "id": 4,
-      "name": "Mohammad Rahman",
-      "picture": "https://example.com/mohammad-rahman.jpg",
-      "bio": "Mohammad Rahman is a skilled Bangladeshi chef who specializes in seafood dishes. He has worked in several high-end restaurants and hotels and is known for his ability to create unique and flavorful dishes.",
+      "name": "Giorgio Locatelli",
+      "picture": "https://img.freepik.com/free-photo/young-male-cook-chef-uniform-showing-size-looking_141793-26346.jpg?w=740&t=st=1683127889~exp=1683128489~hmac=07bedd207b4b4a0e41e9208370a345b89ce7546172faa6ae7b886e2197bf64ff",
+      "bio": "Giorgio Locatelli is a skilled Bangladeshi chef who specializes in seafood dishes. He has worked in several high-end restaurants and hotels and is known for his ability to create unique and flavorful dishes.",
       "years_of_experience": 12,
       "num_of_recipes": 70,
       "likes": 6000,
-      "ratings": 4.6
+      "ratings": 4.6,
+      "recipe":[
+        {
+          "recipe_name":"Risotto",
+          "ingradient":["some butter, onions, maybe wine, short- or medium-grain rice, and broth, finished with Parmesan."],
+          "coocking_method":"The recipe has changed little over the years and now includes bacon, egg yolk, and cheese. In the Italian capital, they also eat “bucatini al cacio e pepe” made with just butter, pepper, and pecorino cheese. The secret is to mix them at the right times. Another famous pasta dish is the “penne all’arrabbiata”—pasta with a spicy tomato sauce."
+        },
+        {
+          "recipe_name":"Pasta",
+          "ingradient":["1 cup perpose flour, teaspoon slat, egg beaten, soya souce, watar, onion."],
+          "coocking_method":"Among the most popular is “risotto alla milanese”, which is prepared with white wine, Parmesan cheese, butter, onions, and saffron, which gives it its unmistakable yellow color. But it can also be made with many other ingredients such as pumpkin, red radicchio, mushrooms, sausage, or shellfish"
+        },
+        {
+          "recipe_name":" Lasagne",
+          "ingradient":["garlic, olive oil, ricotta cheese, mozzarella cheese, eggs, onion, tomatoes."],
+          "coocking_method":"For the sauce, heat a heavy-based saucepan or casserole over a medium-high heat. Once hot, add a glug of oil and then add the onion, carrot, celery and bay leaf and cook for 5-6 minutes, or until softened. Add the garlic and continue to cook for two minutes"
+        }
+        ]
     },
     {
       "id": 5,
-      "name": "Sadia Islam",
-      "picture": "https://example.com/sadia-islam.jpg",
-      "bio": "Sadia Islam is a talented Bangladeshi chef who specializes in fusion cuisine. She has trained in several international culinary schools and has worked in some of the top restaurants around the world.",
+      "name": "Luisa Marelli Valazzam",
+      "picture": "https://img.freepik.com/free-photo/young-confident-blonde-female-chef-chef-uniform-crosses-arms-looks-isolated-orange-wall_141793-35133.jpg?w=740&t=st=1683129807~exp=1683130407~hmac=c898f4eb1ffaefc63eebd9d7634ba7bd132e09be0c43f3f5604cdc4a2faccfff",
+      "bio": "Luisa Marelli Valazza is a talented italian chef who specializes in fusion cuisine. She has trained in several international culinary schools and has worked in some of the top restaurants around the world.",
       "years_of_experience": 8,
       "num_of_recipes": 40,
       "likes": 4000,
-      "ratings": 4.9
+      "ratings": 4.9,
+      "recipe":[
+        {
+          "recipe_name":"Risotto",
+          "ingradient":["some butter, onions, maybe wine, short- or medium-grain rice, and broth, finished with Parmesan."],
+          "coocking_method":"The recipe has changed little over the years and now includes bacon, egg yolk, and cheese. In the Italian capital, they also eat “bucatini al cacio e pepe” made with just butter, pepper, and pecorino cheese. The secret is to mix them at the right times. Another famous pasta dish is the “penne all’arrabbiata”—pasta with a spicy tomato sauce."
+        },
+        {
+          "recipe_name":"Pasta",
+          "ingradient":["1 cup perpose flour, teaspoon slat, egg beaten, soya souce, watar, onion."],
+          "coocking_method":"Among the most popular is “risotto alla milanese”, which is prepared with white wine, Parmesan cheese, butter, onions, and saffron, which gives it its unmistakable yellow color. But it can also be made with many other ingredients such as pumpkin, red radicchio, mushrooms, sausage, or shellfish"
+        },
+        {
+          "recipe_name":" Lasagne",
+          "ingradient":["garlic, olive oil, ricotta cheese, mozzarella cheese, eggs, onion, tomatoes."],
+          "coocking_method":"For the sauce, heat a heavy-based saucepan or casserole over a medium-high heat. Once hot, add a glug of oil and then add the onion, carrot, celery and bay leaf and cook for 5-6 minutes, or until softened. Add the garlic and continue to cook for two minutes"
+        }
+        ]
     },
     {
       "id": 6,
-      "name": "Nazrul Islam",
-      "picture": "https://example.com/nazrul-islam.jpg",
-      "bio": "Nazrul Islam is a highly skilled Bangladeshi chef who specializes in meat dishes. He has worked in several restaurants and hotels around the world and is known for his ability to create unique and flavorful dishes.",
+      "name": "dohart lucci",
+      "picture": "https://img.freepik.com/free-photo/portrait-handsome-male-chef-dressed-uniform_171337-5352.jpg?w=740&t=st=1683129931~exp=1683130531~hmac=5fd3c358e8f96d7c2fd573874a169b2a085b241840ff21223f07e19d822a4d09",
+      "bio": "dohart lucci is a highly skilled italian chef who specializes in meat dishes. He has worked in several restaurants and hotels around the world and is known for his ability to create unique and flavorful dishes.",
       "years_of_experience": 15,
       "num_of_recipes": 60,
       "likes": 7000,
-      "ratings": 4.7
+      "ratings": 4.7,
+      "recipe":[
+        {
+          "recipe_name":"Risotto",
+          "ingradient":["some butter, onions, maybe wine, short- or medium-grain rice, and broth, finished with Parmesan."],
+          "coocking_method":"The recipe has changed little over the years and now includes bacon, egg yolk, and cheese. In the Italian capital, they also eat “bucatini al cacio e pepe” made with just butter, pepper, and pecorino cheese. The secret is to mix them at the right times. Another famous pasta dish is the “penne all’arrabbiata”—pasta with a spicy tomato sauce."
+        },
+        {
+          "recipe_name":"Pasta",
+          "ingradient":["1 cup perpose flour, teaspoon slat, egg beaten, soya souce, watar, onion."],
+          "coocking_method":"Among the most popular is “risotto alla milanese”, which is prepared with white wine, Parmesan cheese, butter, onions, and saffron, which gives it its unmistakable yellow color. But it can also be made with many other ingredients such as pumpkin, red radicchio, mushrooms, sausage, or shellfish"
+        },
+        {
+          "recipe_name":" Lasagne",
+          "ingradient":["garlic, olive oil, ricotta cheese, mozzarella cheese, eggs, onion, tomatoes."],
+          "coocking_method":"For the sauce, heat a heavy-based saucepan or casserole over a medium-high heat. Once hot, add a glug of oil and then add the onion, carrot, celery and bay leaf and cook for 5-6 minutes, or until softened. Add the garlic and continue to cook for two minutes"
+        }
+        ]
     }
     
 ]
