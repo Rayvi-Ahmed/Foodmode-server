@@ -17,9 +17,11 @@ app.get('/',(req,res)=>{
 app.get('/chefs',(req,res)=>{
 res.send(Chefs)
 })
-app.get('/chefs/:recipe',(req,res)=>{
+
+app.get('/chefs/:id',(req,res)=>{
   const id= req.params.id;
-console.log(id)
+  const item = Chefs?.find(ch=>ch.id==id)
+  res.send({item})
 })
 
 
