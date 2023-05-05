@@ -1,6 +1,7 @@
 [
     {
       "id": 1,
+      "picture":"https://img.freepik.com/free-photo/plate-mushroom-risotto-topped-with-grated-cheese_141793-469.jpg?w=740&t=st=1683221117~exp=1683221717~hmac=1389346b901d84677402093239e1a1be13317be2ab60606aaf816e1b4cf563fe",
       "recipe_name":"Risotto",
       "ingradient":["1.some butter, 2.onions, 3.maybe wine, 4.short- or medium-grain rice, and 5.broth, finished with Parmesan."],
       "coocking_method":"The recipe has changed little over the years and now includes bacon, egg yolk, and cheese. In the Italian capital, they also eat “bucatini al cacio e pepe” made with just butter, pepper, and pecorino cheese. The secret is to mix them at the right times. Another famous pasta dish is the “penne all’arrabbiata”—pasta with a spicy tomato sauce.",
@@ -8,6 +9,7 @@
     },
     {
       "id": 2,
+      "picture":"https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=740&t=st=1683221013~exp=1683221613~hmac=429f58c0de7663b85bf77ef5afc59e613abbf8e0ddadfadcfee7f81690140812",
       "recipe_name":"Pasta",
       "ingradient":["1 cup perpose flour, teaspoon slat, egg beaten, soya souce, watar, onion."],
       "coocking_method":"Among the most popular is “risotto alla milanese”, which is prepared with white wine, Parmesan cheese, butter, onions, and saffron, which gives it its unmistakable yellow color. But it can also be made with many other ingredients such as pumpkin, red radicchio, mushrooms, sausage, or shellfish",
@@ -15,6 +17,7 @@
     },
     {
       "id": 3,
+      "picture":"https://img.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_2829-11250.jpg?w=740&t=st=1683221190~exp=1683221790~hmac=2d36140c98489c0ff1a303b3d4f5b3fc6d1b8537b7c6e8f974d79172d3d2b48f",
       "recipe_name":" Lasagne",
       "ingradient":["garlic, olive oil, ricotta cheese, mozzarella cheese, eggs, onion, tomatoes."],
       "coocking_method":"For the sauce, heat a heavy-based saucepan or casserole over a medium-high heat. Once hot, add a glug of oil and then add the onion, carrot, celery and bay leaf and cook for 5-6 minutes, or until softened. Add the garlic and continue to cook for two minutes",

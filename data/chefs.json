@@ -55,6 +55,17 @@
     "likes": 7000,
     "ratings": 4.7
     
+  },
+  {
+    "id": 7,
+    "name": "leonadro xakimi",
+    "picture": "https://img.freepik.com/free-photo/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs_613910-17564.jpg?w=740&t=st=1683220677~exp=1683221277~hmac=283532cbc50ce138e03357f419ed62351792e13c6fdecaa0808ab6ef7e352fc7",
+    "bio": "leonadro xakimi is a highly skilled italian chef who specializes in meat dishes. He has worked in several restaurants and hotels around the world and is known for his ability to create unique and flavorful dishes.",
+    "years_of_experience": 14,
+    "num_of_recipes": 78,
+    "likes": 5500,
+    "ratings": 4.7
+    
   }
   
 ]
